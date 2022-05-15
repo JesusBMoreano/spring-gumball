@@ -10,3 +10,6 @@
 
 * Gradle 5.6
 * JDK 11
+
+## Part 1
+- ![0](https://github.com/JesusBMoreano/spring-gumball/blob/main/images/Lab10-Part1.png)
